@@ -1,0 +1,14 @@
+{
+  "name": "gql-backend",
+  "version": "1.0.0",
+  "description": "backend for test graphql application",
+  "main": "index.js",
+  "author": "Drew Daigle",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "nodemon": "^2.0.4"
+  }
+}
